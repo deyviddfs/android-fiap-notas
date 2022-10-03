@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fiap Notas</string>
+    <string name="logo_fiap">Logo FIAP</string>
+    <string name="login">Login</string>
+    <string name="icone_e_mail">Ícone e-mail</string>
+    <string name="email">E-mail</string>
+    <string name="icone_cadeado">Ícone cadeado</string>
+    <string name="senha">Senha</string>
+    <string name="esqueceu_senha">Esqueceu senha</string>
+    <string name="logar">Logar</string>
+    <string name="criar_conta">Criar conta</string>
+    <string name="ou">ou</string>
+    <string name="perfil">Perfil</string>
+    <string name="sair">Sair</string>
+    <string name="enviar">Enviar</string>
+    <string name="salvar">Salvar</string>
+    <string name="novo_usuario">Novo usuário</string>
+    <string name="vazio"></string>
+    <string name="nome">Nome</string>
+    <string name="confirme_a_senha">Confirme a senha</string>
+    <string name="perfil_usuario">Perfil Usuário</string>
+    <string name="e_mail_verificado">E-mail verificado?</string>
+    <string name="dados_do_usuario_atualizados_com_sucesso">Dados do usuário atualizados com sucesso!</string>
+    <string name="verifique_seu_email_para_concluir_o_processo_de_alteracao_de_senha">Verifique seu e-mail para concluir o processo de alteração de senha!</string>
+    <string name="o_nome_e_obrigatorio">O nome é obrigatório!</string>
+    <string name="o_email_e_obrigatorio">O e-mail é obrigatório!</string>
+    <string name="os_campos_senhas_sao_obrigatorios_e_devem_ser_iguais">Os campos senhas são obrigatórios e devem ser iguais!</string>
+    <string name="o_email_e_a_senha_sao_obrigatorios">O e-mail e a senha são obrigatórios!</string>
+    <string name="usuario_e_ou_senha_invalidos">Usuário e/ou senha inválidos</string>
+    <string name="usuario_cadastrado_com_sucesso">Usuário cadastrado com sucesso!</string>
+</resources>
