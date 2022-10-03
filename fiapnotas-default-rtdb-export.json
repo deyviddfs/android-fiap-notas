@@ -1,0 +1,34 @@
+{
+  "notas": {
+    "j0FKHJYGJ2OGd4gJsGzECZ3GehB2": {
+      "D001N1": {
+        "disciplina": "AGILE METHODOLOGY WITH SQUAD FRAMEWORK",
+        "nota": 7
+      },
+      "D002N1": {
+        "disciplina": "CYBERSECURITY",
+        "nota": 6
+      },
+      "D003N1": {
+        "disciplina": "DATA SCIENCE & STATISTICAL COMPUTING WITH R",
+        "nota": 9
+      },
+      "D004N1": {
+        "disciplina": "DOMAIN DRIVEN DESIGN – JAVA",
+        "nota": 10
+      },
+      "D005N1": {
+        "disciplina": "NETWORK ARCHITECT SOLUTIONS",
+        "nota": 8.5
+      },
+      "D006N1": {
+        "disciplina": "CÓDIGOS DE ALTA PERFORMANCE",
+        "nota": 9
+      },
+      "D007N1": {
+        "disciplina": "DATABASE DESIGN",
+        "nota": 7.5
+      }
+    }
+  }
+}
