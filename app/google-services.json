@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097955060377",
+    "project_id": "fiapnotas",
+    "storage_bucket": "fiapnotas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097955060377:android:ba6e79501110a4c2e32608",
+        "android_client_info": {
+          "package_name": "br.com.deyvidfernandes.fiapnotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097955060377-p6k63oqhhkpsqeaoe55m4ukveri11cl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEF-9Sd9p99gEA27euTq3wBdY1ND8xVkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097955060377-p6k63oqhhkpsqeaoe55m4ukveri11cl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
